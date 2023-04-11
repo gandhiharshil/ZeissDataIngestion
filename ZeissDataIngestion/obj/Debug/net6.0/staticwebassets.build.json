@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tSlL1XEORZC8ytQWjulWBh6mC4O5bugVdjBRCEP4kLA=",
+  "Source": "ZeissDataIngestion",
+  "BasePath": "_content/ZeissDataIngestion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
